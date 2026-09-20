@@ -9,7 +9,7 @@ I have experience with backend development using **Python and Django** and front
 - 🔭 Currently looking for: Entry-level Full-Stack Developer opportunities
 - 🌱 Currently improving my skills in: Django, JavaScript, REST APIs, and web application development
 - 💻 Interested in: Full-Stack Development, Backend Development, and Software Engineering
-- 📫 Contact me: your-email@example.com
+- 📫 Contact me: praneethreddy9959@gmail.com
 - 🔗 LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
 - 🌐 Portfolio: Add your portfolio link
 
@@ -72,5 +72,5 @@ My goal is to begin my career as a Full-Stack Developer, contribute to real-worl
 ## 🤝 Let's Connect
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [praneethreddy9959@gmail.com](mailto:praneethreddy9959@gmail.com)
 - GitHub: [@Praneeth8845](https://github.com/Praneeth8845)
