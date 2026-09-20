@@ -11,7 +11,6 @@ I have experience with backend development using **Python and Django** and front
 - 💻 Interested in: Full-Stack Development, Backend Development, and Software Engineering
 - 📫 Contact me: praneethreddy9959@gmail.com
 - 🔗 LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
-- 🌐 Portfolio: Add your portfolio link
 
 ## 🛠️ Technical Skills
 
